@@ -27,10 +27,14 @@ IoT Enthusiast & Machine Learning Developer @ CIBIE
 
 ---
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkarthick_k?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/arunkarthick_k)
 
+---
 
 ![Arunkarthick.K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkarthi123&theme=dark&show_icons=true&&hide=issues,contribs)
-[![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkarthick_k?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/arunkarthickk)
-[![Arunkarthick.K's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunkarthickK&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+[![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)]
+
+
