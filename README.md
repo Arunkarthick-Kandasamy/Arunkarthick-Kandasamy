@@ -1,4 +1,5 @@
-## Hi there 👋 It's me Arunkarthick.K  
+# Hi there 👋 It's me Arunkarthick.K  
+
 
 **IoT Enthusiast & Machine Learning Developer** @ CIBIE  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -15,23 +16,19 @@
 
 ---
 
-### I Code In  
+## I Code In  
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />  
 
 ---
 
-### IDE and Tools I Use  
+## IDE and Tools I Use  
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>  
 
 ---
 
-### My Stats  
+## My Stats  
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkarthick_k?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/arunkarthick_k)
 
@@ -41,27 +38,22 @@
 
 ---
 
-### Projects  
+## Projects  
 - **IoT Projects**: Currently working on an IoT project that integrates multiple sensors (Temperature, Humidity, etc.). [Repo Link](#)
 - **Machine Learning Projects**: Explore my ML projects on the repository. [Repo Link](#)
 - **Spam Call Detection**: A project to detect spam calls through audio processing. [Repo Link](#)
 
 ---
 
-### Open-Source Contributions  
-- Contributed to several open-source projects, improving documentation and implementing bug fixes. [Check out my contributions](#)
 
----
-
-
-### Fun Section  
+## Fun Section  
 - 🎮 Hobbies: Gaming, Kabaddi, Chess, Tech Enthusiast.  
 - 🌍 Exploring **new technologies** to solve **real-world problems**.
 - 💬 Always up for a **technical discussion**!
 
 ---
 
-### Let's Connect  
+## Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/arun-karthick-kandasamy/)  
 - [Instagram](https://www.instagram.com/arunkarthick_kandasamy/)
 - [Unstop](https://unstop.com/u/arunkar8681)
