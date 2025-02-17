@@ -48,7 +48,7 @@
 
 ## 📊 GitHub & LeetCode Stats  
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkarthick_k?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/arunkarthick_k)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Arunkarthick_K?theme=dark&font=Work%20Sans&ext=heatmap)](https://leetcode.com/arunkarthick_k)  
 
 ![Arunkarthick.K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkarthi123&theme=dark&show_icons=true&&hide=issues,contribs)  
 
