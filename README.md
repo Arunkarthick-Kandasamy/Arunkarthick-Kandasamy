@@ -52,8 +52,7 @@
 
 ![Arunkarthick.K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkarthi123&theme=dark&show_icons=true&&hide=issues,contribs)  
 
-![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)
-
+![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123)
 ---
 
 ## 🏆 Featured Projects  
