@@ -1,9 +1,5 @@
 # Hi there 👋, I'm [Arunkarthick.K](https://drive.google.com/file/d/1E443a9pbHp1JWQIoFx4ejZ_ZnOyTtON_/view?usp=drive_link)  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="400"/>
-</p>
-
 ## 🚀 About Me  
 🔹 **AI/ML Developer | IoT Engineer | Hackathon Enthusiast**  
 🔹 Final Year **B.Tech Artificial Intelligence & Data Science** @ Dr. Mahalingam College of Engg. & Tech  
@@ -31,16 +27,21 @@
 ## 🛠️ Technologies & Tools  
 
 ### ⚙️ Languages  
-<img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  
-<img height="50" src="https://img.icons8.com/external-others-iconmarket/50/000000/external-Embedded-Systems-industrial-iconmarket.png"/>  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
 ### 💻 IDEs & Tools  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/git.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/arduino.png"/>  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)  
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ---
 
@@ -50,13 +51,12 @@
 
 ![Arunkarthick.K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkarthi123&theme=dark&show_icons=true&&hide=issues,contribs)  
 
-[![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)]  
+![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)
 
 ---
 
 ## 🏆 Featured Projects  
 🔹 **IoT Sensor-Based System** → **Multi-sensor data monitoring for real-time analysis.** [Repo](#)  
-🔹 **Spam Call Detection** → **ML model to detect spam calls from audio files.** [Repo](#)  
 🔹 **Fire & Smoke Detection** → **AI-powered fire detection model for early warnings.** [Repo](#)  
 🔹 **AI-Based Fake Image Detection** → **92GB dataset classification for AI-generated images.** [Repo](#)  
 🔹 **Smartwatch Diet Recommendation** → **AI-driven diet planning based on wearable data.** [Repo](#)  
@@ -79,4 +79,4 @@
 
 ---
 
-🚀 _"Transforming Ideas into Impact with AI & IoT!"_  
+🚀 _"Transforming Ideas into Impact with AI & IoT!"_
