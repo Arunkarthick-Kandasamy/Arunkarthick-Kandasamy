@@ -55,10 +55,10 @@
 ![Arunkarthick.K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkarthi123&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)---
 
 ## 🏆 Featured Projects  
-🔹 **IoT Sensor-Based System** → **Multi-sensor data monitoring for real-time analysis.** [Repo](#)  
-🔹 **Fire & Smoke Detection** → **AI-powered fire detection model for early warnings.** [Repo](#)  
-🔹 **AI-Based Fake Image Detection** → **92GB dataset classification for AI-generated images.** [Repo](#)  
-🔹 **Smartwatch Diet Recommendation** → **AI-driven diet planning based on wearable data.** [Repo](#)  
+🔹 **IoT Sensor-Based System** → **Multi-sensor data monitoring for real-time analysis.** [Repo](https://github.com/Arunkarthick-Kandasamy/RealTime-IoT-Dashboard)  
+🔹 **Fire & Smoke Detection** → **AI-powered fire detection model for early warnings.** [Repo](https://github.com/Arunkarthick-Kandasamy/Fire-and-Smoke-Detection-Using-Convolutional-Neural-Networks)  
+🔹 **AI-Based Fake Image Detection** → **92GB dataset classification for AI-generated images.** [Repo](https://github.com/Arunkarthick-Kandasamy/DeepFakeDetection)  
+🔹 **Disease-Prediction** → **AI-driven Disease Prediction  based on symtoms data.** [Repo](https://github.com/Arunkarthick-Kandasamy/Disease-Prediction)  
 
 ---
 
