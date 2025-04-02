@@ -45,7 +45,11 @@
 
 
 ---
+## 📊 LeetCode Stats  
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Arunkarthick_K?theme=dark&font=Work%20Sans&ext=heatmap)](https://leetcode.com/arunkarthick_k)  
+
+---
 
 ## 🏆 Featured Projects  
 🔹 **IoT Sensor-Based System** → **Multi-sensor data monitoring for real-time analysis.** [Repo](https://github.com/Arunkarthick-Kandasamy/RealTime-IoT-Dashboard)  
